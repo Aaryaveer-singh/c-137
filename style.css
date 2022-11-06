@@ -1,0 +1,47 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#start{
+    font-size: 18px;
+    margin: 5px;
+}
+
+span{
+    margin: 5px;
+}
+
+.footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 23px;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 25px yellow;
+    margin-top: 100px;
+}
+
+.sub{
+    font-size: 15px;
+    color: black;
+}
+
+label{
+    color: white;
+}
+
+#input_object{
+    width: 50%;
+}
+
